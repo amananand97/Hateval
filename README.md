@@ -1,5 +1,7 @@
 # Hateval
 
+Took a lead role in developing a Hate Speech detection model using SVM binary classifier. Implemented data preprocessing, feature extraction, and model training using scikit-learn. Conducted rigorous 10-fold cross-validation, showcasing strong proficiency in machine learning algorithms and model evaluation.
+
 ### Step 1 : import all the following from the list
 
 		- from sklearn import svm, model_selection
